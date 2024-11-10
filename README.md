@@ -6,7 +6,7 @@
 
 ## 游戏截图
 
-！[image](https://github.com/xboHodx/Black-Code-WuKong/blob/main/GameScreenshot.png)
+！[image](https://github.com/xboHodx/Black-Code-WuKong/blob/main/img/GameScreenshot.png?raw=true)
 
 
 
