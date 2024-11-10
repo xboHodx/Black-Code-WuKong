@@ -6,7 +6,7 @@
 
 ## 游戏截图
 
-![image-20240923175717268](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20240923175717268.png)
+https://smms.app/image/VmFUS3PTXksIepa
 
 
 
