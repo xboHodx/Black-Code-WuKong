@@ -6,7 +6,7 @@
 
 ## 游戏截图
 
-https://smms.app/image/VmFUS3PTXksIepa
+！[image](https://github.com/xboHodx/Black-Code-WuKong/blob/main/GameScreenshot.png)
 
 
 
